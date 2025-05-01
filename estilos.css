@@ -1,0 +1,9 @@
+/* Estilos básicos para LiterLap */
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #3a0071;
+  text-align: center;
+}
